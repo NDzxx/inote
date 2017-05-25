@@ -1,3 +1,0 @@
-2017/05/19 13:43:10 [I] [asm_amd64.s:2197] http server Running on http://:7777
-2017/05/19 13:47:51 [I] [asm_amd64.s:2197] http server Running on http://:7777
-2017/05/19 13:47:51 [C] [asm_amd64.s:2197] ListenAndServe:  listen tcp :7777: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
